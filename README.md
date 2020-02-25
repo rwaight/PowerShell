@@ -1,2 +1,2 @@
-# WindowsAutomation
-Tools for Windows systems automation
+# PowerShell scripts
+Tools for systems automation using PowerShell
