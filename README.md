@@ -1,2 +1,2 @@
-# WindowsAutomation
-Tools for Windows systems automation
+# PowerShell
+The files in this repo have been moved to https://github.com/rwaight/WindowsAutomation
